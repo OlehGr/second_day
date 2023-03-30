@@ -1,16 +1,16 @@
 # second_day
 
-#Run api:
-Создать venv, загрузить dump.sql
-MySql: пользователь - root, без пароля
->
-cd api
-pip install requirements.txt
-py manage.py runserver
+#Run api:<br>
+Создать venv, загрузить dump.sql<br>
+MySql: пользователь - root, без пароля<br>
+><br>
+cd api<br>
+pip install requirements.txt<br>
+py manage.py runserver<br>
 
 
-#Run spa
->
-cd spa 
-npm i / yarn
-npm run dev / yarn dev
+#Run spa<br>
+><br>
+cd spa <br>
+npm i / yarn<br>
+npm run dev / yarn dev<br>
