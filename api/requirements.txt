@@ -1,0 +1,8 @@
+django
+djangorestframework
+pygments
+django-cors-headers
+pillow
+markdown
+django-filter
+mysqlclient
