@@ -1,0 +1,17 @@
+.grid-flat {
+    width: 100%;
+    overflow-x: scroll;
+    padding: 80px;
+    background: #f5f5f5;
+}
+
+.grid-flat__scroll {
+    display: flex;
+    
+}
+
+.grid-flat table {
+    background: #fff;
+    flex-shrink: 0;
+    margin-right: 16px;
+}
